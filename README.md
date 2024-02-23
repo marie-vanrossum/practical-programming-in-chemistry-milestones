@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/marie-vanrossum                                          | 
 | 1    | Github Profile Page                         | https://github.com/marie-vanrossum/marie-vanrossum                          |
-| 1    | Commit and Push Change from Command Line    | https://github.com/marie-vanrossum/ppchem/commit/`commit-nr`                |
+| 1    | Commit and Push Change from Command Line    | https://github.com/marie-vanrossum/ppchem/commit/ee7067b2a2c22234148e3496923b8f6a21aa07bc                |
 | 1    | Create a New Branch                         | https://github.com/marie-vanrossum/ppchem/tree/new-branch-name              |
 | 1    | Create a conda environment                  | https://github.com/marie-vanrossum/ppchem/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/marie-vanrossum/practical-programming-in-chemistry-milestones |
